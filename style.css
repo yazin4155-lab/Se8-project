@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff4e6;
+    color: #333333;
+    padding: 20px;
+}
+
+.menu {
+    max-width: 550px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 2px 3px 8px #cccccc;
+}
+
+h1 {
+    text-align: center;
+    color: #8b2e18;
+    text-transform: uppercase;
+    text-shadow: 1px 2px 2px #dddddd;
+}
+
+.tagline {
+    text-align: center;
+    font-style: italic;
+}
+
+h2 {
+    color: #8b2e18;
+    text-decoration: underline;
+}
+
+h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.description {
+    margin-top: 0;
+    text-indent: 15px;
+}
+
+.offer {
+    background-color: #ffe08a;
+    padding: 12px;
+    text-align: center;
+    font-weight: bold;
+    transform: rotate(-2deg);
+}
